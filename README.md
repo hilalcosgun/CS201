@@ -1,2 +1,2 @@
-# CS201
-Bilkent CS201 Spring 2024
+# CS201 -Fundamental Structures of Computer Science I Homeworks
+These are four assignments I coded in C++ for the CS201 course. This course introduces data structures and algorithm analysis. Course topics are time complexity, space complexity and related trade-offs, dynamic memory management, sorting algorithms, and implementation and analysis of abstract data types such as lists, stacks, and queues.
